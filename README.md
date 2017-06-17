@@ -1,6 +1,6 @@
 # Angolan Developer Job Opportunities
 
-A list of companies in need of developers. Many companies have been asking me where can they find developers that live in [Angola](https://pt.wikipedia.org/wiki/Angola). So i created this list where angolan developers can see the companies, where they can find a job in Angola. Some of this companies don't need a developer wright now, but it is always nice to know. 
+A list of companies in need of developers. Many companies have been asking me where can they find developers that live in [Angola](https://pt.wikipedia.org/wiki/Angola). So i created this list where angolan developers can see the companies, where they can find a job in Angola. Some of these companies don't need a developer wright now, but it is always nice to know. 
 
 
 Contributions are very welcome! Feel free to make a PR and i will merge as long as all the companies are listed in alphabetical order.
