@@ -6,7 +6,7 @@ A list of companies in need of developers. Many companies have been asking me wh
 
 Nome | Website | Hiring
 ------------ | ------- | -------
-Advan Link | [Facebook Page](goo.gl/LJSydk) | Yes
+Advan Link | [Facebook Page](https://goo.gl/LJSydk) | Yes
 Bantu Makers | https://bantumakers.com/ | Yes
 Bengo Systems  | http://www.bengosystems.com/ | No
 Eagle Inosistem | [Facebook Page](https://www.facebook.com/eagleinosistem/) | Yes
