@@ -11,6 +11,7 @@ Bantu Makers | https://bantumakers.com/ | Yes
 Bengo Systems  | http://www.bengosystems.com/ | No
 Eagle Inosistem | [Facebook Page](https://www.facebook.com/eagleinosistem/) | Yes
 Itelnet | https://www.itelnet.co.ao/ | No
+Ivangoti | https://www.ivangoti.com | Maybe
 Kriação | http://www.kriacao.pt/contactos_luanda.php | Yes
 LoopLab | https://www.looplab.co.ao/ | No
 MindMap Consulting | http://new.mindmapconsulting.co.ao/ | Yes
