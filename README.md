@@ -28,6 +28,7 @@ Smarttechys | http://www.smarttechys.co.ao/ | No
 SynAck | http://www.synackcertified.com/ | Yes
 Tecla Digital | http://www.tecladigital.co.ao | No
 TiAngola | http://tiangola.co.ao/ | Maybe
+Vila Soft| http://villasoft.net/ | Yes
 Virtual Corp | https://www.virtualcorpltd.com/ | No
 
 ## Contributions
