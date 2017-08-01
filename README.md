@@ -18,6 +18,7 @@ MindMap Consulting | http://new.mindmapconsulting.co.ao/ | Yes
 Muat Soft | http://muatsoft.eu5.org/ | No
 Muzoltek | http://www.muzoltek.com | No
 Mwango Brain | http://www.mwangobrain.co.ao/ | Maybe
+Mwango Click | http://mwangoclick.co.ao/oficial/ | Maybe
 Ncr Angola | [Recruitment Page](https://www.ncrangola.com/accaosocial/pt/9-recrutamento/) | Yes
 Ngola It | http://www.ngolait.co.ao/ | No
 PR19 | http://pr19.co.ao | No
@@ -27,6 +28,7 @@ Sistec| [Recruitment Page](http://sistec.co.ao/recursos-humanos/ofertas-emprego/
 Smarttechys | http://www.smarttechys.co.ao/ | No
 SynAck | http://www.synackcertified.com/ | Yes
 Tecla Digital | http://www.tecladigital.co.ao | No
+Thin Tank | http://www.tt-angola.com/ | No
 TiAngola | http://tiangola.co.ao/ | Maybe
 Vila Soft| http://villasoft.net/ | Yes
 Virtual Corp | https://www.virtualcorpltd.com/ | No
